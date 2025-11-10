@@ -1,0 +1,5 @@
+Each line in this file can represent a potential query for the TikTok Ads Scraper,
+for example advertiser names, domains, or keywords.
+
+This file is not used automatically by the runner, but you can use it as a reference
+for building your own batch-processing script on top of src/runner.py.
